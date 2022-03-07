@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(
+    110.5deg,
+    rgba(248, 196, 249, 0.66) 22.8%,
+    rgba(253, 122, 4, 0.15) 64.6%
+  );
+}
+.container {
+  margin-top: 40px;
+}
+
+h1,
+h2,
+h5 {
+  color: grey;
+}
+h4,
+h6 {
+  color: rgb(238, 151, 37);
+}
+h1 {
+  font-size: 40px;
+}
+h2,
+h4,
+h5,
+h6 {
+  text-align: center;
+  font-size: 25px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 35px;
+  color: blueviolet;
+}
+
+.btn {
+  color: white;
+  background-color: violet;
+}
+
+.location-button {
+  color: white;
+  background-color: rgb(240, 178, 240);
+  border-radius: 5px;
+  border-color: rgb(132, 211, 238);
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: 150px;
+}
+
+.footer {
+  text-align: center;
+}
+.card {
+  background-color: rgb(245, 180, 245);
+  border: 2px solid grey;
+  border-radius: 10px;
+  text-align: center;
+}
+.units,
+.celsius-link,
+.farenheit-link {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
