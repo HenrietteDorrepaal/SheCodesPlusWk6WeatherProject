@@ -19,6 +19,7 @@ h6 {
   color: rgb(238, 151, 37);
 }
 h1 {
+  text-align: center;
   font-size: 40px;
 }
 h2,
@@ -61,6 +62,11 @@ img {
 
 .footer {
   text-align: center;
+}
+
+.github {
+  color: orange;
+  font-size: 20px;
 }
 .card {
   background-color: rgb(245, 180, 245);
